@@ -39,7 +39,7 @@ Azure es un conjunto de servicios en la nube en expansión constante que ayudan 
 
 <h1>¿Qué ofrece Azure?</h1>
 
-on la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gran solución. En la tabla siguiente se enumeran algunas de las ventajas que proporciona Azure, para que inventar con un objetivo sea más sencillo.
+Con la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gran solución. En la tabla siguiente se enumeran algunas de las ventajas que proporciona Azure, para que inventar con un objetivo sea más sencillo.
 
 Esté preparado para el futuro: la innovación continua de Microsoft apoya el desarrollo actual y los proyectos de productos para el futuro.
 
