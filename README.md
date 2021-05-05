@@ -13,6 +13,7 @@ consiste en agregar datos, conceptos e información importante sobre lo aprendid
 <h2 align = "center">¿Que es la informatica en la nube?</h2>
 
 <p align = "justify">Es la entrega de servicios informáticos a través de Internet, lo que se conoce como la nube. Estos servicios incluyen servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia. La informática en la nube ofrece una innovación más rápida, recursos flexibles y economías de escala.
+</p>
 
 La informática en la nube es una forma de alquilar potencia de proceso y almacenamiento de un centro de datos de terceros. Los recursos de la nube se pueden tratar igual que los recursos de un centro de datos propio. Cuando haya terminado con ellos, solo hay que devolverlos. Únicamente se le cobrará por lo que use.
 
