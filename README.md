@@ -37,7 +37,7 @@ En lugar de mantener las CPU y el almacenamiento en un centro de datos, se alqui
 
 Azure es un conjunto de servicios en la nube en expansión constante que ayudan a la organización a cumplir los desafíos empresariales actuales y futuros. Azure le ofrece la libertad de compilar, administrar e implementar aplicaciones en una red global masiva mediante sus herramientas y plataformas favoritas.
 
-<h3>¿Qué ofrece Azure?</h3>
+<h3 align = "center">¿Qué ofrece Azure?</h3>
 
 Con la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gran solución. En la tabla siguiente se enumeran algunas de las ventajas que proporciona Azure, para que inventar con un objetivo sea más sencillo.
 
