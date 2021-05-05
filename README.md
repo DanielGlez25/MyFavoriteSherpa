@@ -132,3 +132,27 @@ IaaS es la categoría más flexible de servicios en la nube. Su objetivo es ofre
 
 <li>Flexibilidad. IaaS es el servicio en la nube más flexible, ya que se dispone de control para configurar y administrar el hardware que ejecuta una aplicación.</li>
 </ul>
+
+
+<h2 align="center">PaaS</h2>
+
+PaaS proporciona las mismas ventajas y consideraciones que IaaS, pero ofrece algunas ventajas adicionales que es importante conocer.
+
+<h3>Ventajas</h3>
+<ul>
+<li>Sin gastos de capital (CapEx). Los usuarios no tienen costos iniciales.</li>
+
+<li>Agilidad. PaaS es más ágil que IaaS, y no es necesario que los usuarios configuren servidores para ejecutar aplicaciones.</li>
+
+<li>Modelo basado en el consumo. Los usuarios solo pagan por lo que usan y operan bajo un modelo OpEx.</li>
+
+<li>Aptitudes. No se requieren conocimientos técnicos avanzados para implementar y usar una plataforma PaaS u obtener las ventajas que esta ofrece.</li>
+
+<li>Ventajas que ofrece la nube. Los usuarios pueden aprovechar las aptitudes y la experiencia del proveedor de nube para asegurarse de que sus cargas de trabajo sean seguras y tengan alta disponibilidad. Además, los usuarios pueden obtener acceso a más herramientas de desarrollo punteras. Entonces, las podrán aplicar al ciclo de vida de una aplicación.</li>
+
+<li>Productividad. Los usuarios se pueden centrar únicamente en el desarrollo de aplicaciones, ya que el proveedor de nube lleva a cabo toda la administración de plataformas. Trabajar con equipos distribuidos como servicios es más fácil, ya que se accede a la plataforma a través de Internet. Puede hacer que la plataforma esté disponible globalmente de forma más sencilla.</li>
+</ul>
+<h3>Desventaja</h3>
+<ul>
+<li>Limitaciones de la plataforma. Es posible que en las plataformas en la nube haya una serie de limitaciones que pueden afectar al modo en el que una aplicación se ejecuta. Al evaluar qué plataforma PaaS es más adecuada para una carga de trabajo, debe tener en cuenta las limitaciones de esta área.</li>
+</ul>
