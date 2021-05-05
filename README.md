@@ -57,7 +57,7 @@ Con la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gr
 
 <img src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/trust.png">
 
-<h3>¿Qué son los modelos de servicio en la nube?</h3>
+<h3 align = "center">¿Qué son los modelos de servicio en la nube?</h3>
 <table>
   <tr>
     <td>Modelo informático</td>
