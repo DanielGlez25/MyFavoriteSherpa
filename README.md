@@ -80,4 +80,7 @@ Con la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gr
     <td>En este modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de servicios en la nube. Por ejemplo, Office 365 proporciona una versión de Office totalmente operativa que se ejecuta en la nube. Lo único que debe hacer es crear el contenido y Office 365 se encarga de todo lo demás.</td>
   </tr>
 </table>
+
+<h2>Servicios de Azure</h2>
+<img src= https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/azure-services.png#lightbox>
   
