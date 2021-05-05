@@ -51,4 +51,6 @@ Esté preparado para el futuro: la innovación continua de Microsoft apoya el de
 
 <b>Opere en el entorno híbrido sin problemas:</b> ya sea en el entorno local, en la nube o en el entorno perimetral, le apoyaremos donde esté. Integre y administre los entornos con herramientas y servicios diseñados para una solución de nube híbrida.
 
+<img src ="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/hybrid.png">
+
 <b>Confíe en la nube:</b> obtenga seguridad desde el principio, respaldada por un equipo de expertos, y un cumplimiento proactivo de confianza para las empresas consolidadas, los gobiernos y las nuevas empresas.
