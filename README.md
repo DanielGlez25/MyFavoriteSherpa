@@ -54,3 +54,5 @@ Esté preparado para el futuro: la innovación continua de Microsoft apoya el de
 <img src ="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/hybrid.png">
 
 <b>Confíe en la nube:</b> obtenga seguridad desde el principio, respaldada por un equipo de expertos, y un cumplimiento proactivo de confianza para las empresas consolidadas, los gobiernos y las nuevas empresas.
+
+<img src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/trust.png">
