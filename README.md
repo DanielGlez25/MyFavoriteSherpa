@@ -32,3 +32,7 @@ Agilidad: los recursos basados en la nube se pueden implementar y configurar rá
 Distribución geográfica: las aplicaciones y los datos se pueden implementar en centros de datos regionales de todo el mundo, lo que garantiza que los clientes siempre tendrán el mejor rendimiento de su región.
 
 Recuperación ante desastres: al usar los servicios de copia de seguridad basados en la nube, la replicación de datos y la distribución geográfica, podrá implementar las aplicaciones con la seguridad de saber que los datos están protegidos en caso de que se produzca un desastre.
+
+¿Qué es Azure?
+
+Azure es un conjunto de servicios en la nube en expansión constante que ayudan a la organización a cumplir los desafíos empresariales actuales y futuros. Azure le ofrece la libertad de compilar, administrar e implementar aplicaciones en una red global masiva mediante sus herramientas y plataformas favoritas.
