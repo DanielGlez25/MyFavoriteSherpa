@@ -117,16 +117,18 @@ IaaS es la categoría más flexible de servicios en la nube. Su objetivo es ofre
 
 <h3>Ventajas</h3>
 
-Sin gastos de capital (CapEx). Los usuarios no tienen costos iniciales.
+<ul>
+<li>Sin gastos de capital (CapEx). Los usuarios no tienen costos iniciales.</li>
 
-Agilidad. Se pueden configurar las aplicaciones con rapidez para que sean accesibles y desaprovisionarlas cuando sea necesario.
+<li>Agilidad. Se pueden configurar las aplicaciones con rapidez para que sean accesibles y desaprovisionarlas cuando sea necesario.</li>
 
-Administración. Se aplica el modelo de responsabilidad compartida; el usuario administra y mantiene los servicios que ha aprovisionado, y el proveedor de nube administra y mantiene la infraestructura en la nube.
+<li>Administración. Se aplica el modelo de responsabilidad compartida; el usuario administra y mantiene los servicios que ha aprovisionado, y el proveedor de nube administra y mantiene la infraestructura en la nube.</li>
 
-Modelo basado en el consumo. Las organizaciones solo pagan por lo que usan y operan en un modelo de gastos operativos (OpEx).
+<li>Modelo basado en el consumo. Las organizaciones solo pagan por lo que usan y operan en un modelo de gastos operativos (OpEx).</li>
 
-Aptitudes. No se requieren conocimientos técnicos avanzados para implementar y usar una nube pública u obtener las ventajas que esta ofrece. Las organizaciones pueden utilizar las aptitudes y la experiencia del proveedor de nube para asegurarse de que las cargas de trabajo sean seguras, estén protegidas y tengan alta disponibilidad.
+<li>Aptitudes. No se requieren conocimientos técnicos avanzados para implementar y usar una nube pública u obtener las ventajas que esta ofrece. Las organizaciones pueden utilizar las aptitudes y la experiencia del proveedor de nube para asegurarse de que las cargas de trabajo sean seguras, estén protegidas y tengan alta disponibilidad.</li>
 
-Ventajas que ofrece la nube. Las organizaciones pueden utilizar las aptitudes y la experiencia del proveedor de nube para asegurarse de que las cargas de trabajo se configuren de forma que sean seguras y tengan alta disponibilidad.
+<li>Ventajas que ofrece la nube. Las organizaciones pueden utilizar las aptitudes y la experiencia del proveedor de nube para asegurarse de que las cargas de trabajo se configuren de forma que sean seguras y tengan alta disponibilidad.</li>
 
-Flexibilidad. IaaS es el servicio en la nube más flexible, ya que se dispone de control para configurar y administrar el hardware que ejecuta una aplicación.
+<li>Flexibilidad. IaaS es el servicio en la nube más flexible, ya que se dispone de control para configurar y administrar el hardware que ejecuta una aplicación.</li>
+</ul>
