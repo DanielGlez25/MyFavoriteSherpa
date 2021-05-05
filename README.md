@@ -67,5 +67,9 @@ Con la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gr
     <td>Celda 4</td>
     <td>Celda 5</td>
   </tr>
+  <tr>
+   <td>Celda 4</td>
+   <td>Celda 5</td>
+  </tr>
 </table>
   
