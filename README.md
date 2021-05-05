@@ -81,6 +81,6 @@ Con la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gr
   </tr>
 </table>
 
-<h2>Servicios de Azure</h2>
+<h2 align=center>Servicios de Azure</h2>
 <img src= https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/azure-services.png#lightbox>
   
