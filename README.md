@@ -91,4 +91,10 @@ Con la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gr
     <li><b>Almacenamiento</b></li>
     <li><b>Movíl</b></li>
     <li><b>Bases de datos</b></li>
+    <li><b>Web</b></li>
+    <li><b>Internet de las cosas</b></li>
+    <li><b>Macrodatos</b></li>
+    <li><b>INTELIGENCIA ARTIFICIAL🔡</b></li>
+    <li><b>DevOps</b></li>
 </ul>
+
