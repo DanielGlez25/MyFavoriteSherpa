@@ -8,7 +8,7 @@ La definición de la nube puede parecer poco clara, pero, básicamente, es un t�
 
 -Microsoft Azure
 
-¿Que es la informatica en la nube?
+<h1>¿Que es la informatica en la nube?</h1>
 
 Es la entrega de servicios informáticos a través de Internet, lo que se conoce como la nube. Estos servicios incluyen servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia. La informática en la nube ofrece una innovación más rápida, recursos flexibles y economías de escala.
 
@@ -17,7 +17,7 @@ La informática en la nube es una forma de alquilar potencia de proceso y almace
 En lugar de mantener las CPU y el almacenamiento en un centro de datos, se alquilan durante el tiempo que sea necesario. El proveedor de nube se encarga de mantener la infraestructura subyacente por usted. La nube permite resolver rápidamente los desafíos empresariales más difíciles y proporcionar soluciones de vanguardia a los usuarios.
 
 
-Ventajas de informatica en la nube: 
+<b>Ventajas de informatica en la nube:</b> 
 
 Confiabilidad: en función del contrato de nivel de servicio que elija, las aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad perceptible aunque se produzcan errores.
 
@@ -39,7 +39,7 @@ Azure es un conjunto de servicios en la nube en expansión constante que ayudan 
 
 <h1>¿Qué ofrece Azure?</h1>
 
-Con la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gran solución. En la tabla siguiente se enumeran algunas de las ventajas que proporciona Azure, para que inventar con un objetivo sea más sencillo.
+on la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gran solución. En la tabla siguiente se enumeran algunas de las ventajas que proporciona Azure, para que inventar con un objetivo sea más sencillo.
 
 Esté preparado para el futuro: la innovación continua de Microsoft apoya el desarrollo actual y los proyectos de productos para el futuro.
 
