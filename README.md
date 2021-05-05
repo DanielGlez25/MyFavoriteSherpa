@@ -60,16 +60,20 @@ Con la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gr
 <h3>¿Qué son los modelos de servicio en la nube?</h3>
 <table>
   <tr>
-    <td>Celda 1</td>
-    <td>Celda 2</td>
+    <td>Modelo informático</td>
+    <td>Descripción</td>
   </tr>
   <tr>
-    <td>Celda 4</td>
-    <td>Celda 5</td>
+    <td>IaaS</td>
+    <td>Este modelo de servicio en la nube es el más parecido a la administración de servidores físicos. Un proveedor de servicios en la nube mantiene actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red es responsabilidad del inquilino de nube. Por ejemplo, las máquinas virtuales de Azure son dispositivos de proceso virtuales totalmente operativos que se ejecutan en centros de datos de Microsoft. Una ventaja de este modelo de servicio en la nube es la rápida implementación de nuevos dispositivos de proceso. La configuración de una máquina virtual nueva es considerablemente más rápida que la obtención, instalación y configuración de un servidor físico.</td>
   </tr>
   <tr>
-   <td>Celda 4</td>
-   <td>Celda 5</td>
+   <td>PaaS</td>
+   <td>Este modelo de servicio en la nube es un entorno de hospedaje administrado. El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado. Por ejemplo, Azure App Services proporciona un entorno de hospedaje administrado en el que los desarrolladores pueden cargar sus aplicaciones web sin tener que preocuparse por el uso de los requisitos de hardware y software físicos.</td>
+  </tr>
+  <tr>
+    <td>SaaS</td>
+    <td>En este modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de servicios en la nube. Por ejemplo, Office 365 proporciona una versión de Office totalmente operativa que se ejecuta en la nube. Lo único que debe hacer es crear el contenido y Office 365 se encarga de todo lo demás.</td>
   </tr>
 </table>
   
