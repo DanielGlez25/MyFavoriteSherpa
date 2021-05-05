@@ -45,7 +45,7 @@ Esté preparado para el futuro: la innovación continua de Microsoft apoya el de
 
 <img src ="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/future.png">
 
-Cree a su ritmo: Tiene opciones. Si mantiene un compromiso con el código abierto y admite todos los lenguajes y marcos, puede compilar como quiera e implementar donde quiera.
+<b>Cree a su ritmo:</b> Tiene opciones. Si mantiene un compromiso con el código abierto y admite todos los lenguajes y marcos, puede compilar como quiera e implementar donde quiera.
 
 <img src ="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/build.png">
 
