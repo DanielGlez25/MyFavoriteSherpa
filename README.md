@@ -83,4 +83,12 @@ Con la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gr
 
 <h2 align=center>Servicios de Azure</h2>
 <img src= https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/azure-services.png#lightbox>
-  
+
+<h3>Categorias que se usan con mas frecuencia:</h3>
+<ul>
+  <li><b>Proceso</b></li>
+    <li><b>Redes</b></li>
+    <li><b>Almacenamiento</b></li>
+    <li><b>Movíl</b></li>
+    <li><b>Bases de datos</b></li>
+</ul>
