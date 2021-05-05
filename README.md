@@ -56,3 +56,16 @@ Con la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gr
 <b>Confíe en la nube:</b> obtenga seguridad desde el principio, respaldada por un equipo de expertos, y un cumplimiento proactivo de confianza para las empresas consolidadas, los gobiernos y las nuevas empresas.
 
 <img src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/trust.png">
+
+<h3>¿Qué son los modelos de servicio en la nube?</h3>
+<table>
+  <tr>
+    <td>Celda 1</td>
+    <td>Celda 2</td>
+  </tr>
+  <tr>
+    <td>Celda 4</td>
+    <td>Celda 5</td>
+  </tr>
+</table>
+  
