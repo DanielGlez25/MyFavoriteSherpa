@@ -1,6 +1,7 @@
 # <h1 align = "center">MyFavoriteSherpa<h1>
-Este repositorio es para el reto de la semana 1:
+<p align = "justify">Este repositorio es para el reto de la semana 1:
 consiste en agregar datos, conceptos e información importante sobre lo aprendido durante la primera semana de el curso de Azure.
+</p>
 
 <h2 align = "center">¿Qué es la nube?</h2>
 
