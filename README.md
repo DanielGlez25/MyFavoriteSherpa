@@ -8,3 +8,6 @@ La definición de la nube puede parecer poco clara, pero, básicamente, es un t�
 
 -Microsoft Azure
 
+¿Que es la informatica en la nube?
+
+Es la entrega de servicios informáticos a través de Internet, lo que se conoce como la nube. Estos servicios incluyen servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia. La informática en la nube ofrece una innovación más rápida, recursos flexibles y economías de escala.
