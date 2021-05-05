@@ -17,7 +17,7 @@ La informática en la nube es una forma de alquilar potencia de proceso y almace
 En lugar de mantener las CPU y el almacenamiento en un centro de datos, se alquilan durante el tiempo que sea necesario. El proveedor de nube se encarga de mantener la infraestructura subyacente por usted. La nube permite resolver rápidamente los desafíos empresariales más difíciles y proporcionar soluciones de vanguardia a los usuarios.
 
 
-<b>Ventajas de informatica en la nube:</b> 
+<h3><b>Ventajas de informatica en la nube:</b></h3> 
 
 Confiabilidad: en función del contrato de nivel de servicio que elija, las aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad perceptible aunque se produzcan errores.
 
@@ -33,11 +33,11 @@ Distribución geográfica: las aplicaciones y los datos se pueden implementar en
 
 Recuperación ante desastres: al usar los servicios de copia de seguridad basados en la nube, la replicación de datos y la distribución geográfica, podrá implementar las aplicaciones con la seguridad de saber que los datos están protegidos en caso de que se produzca un desastre.
 
-¿Qué es Azure?
+<h2>¿Qué es Azure?</h2>
 
 Azure es un conjunto de servicios en la nube en expansión constante que ayudan a la organización a cumplir los desafíos empresariales actuales y futuros. Azure le ofrece la libertad de compilar, administrar e implementar aplicaciones en una red global masiva mediante sus herramientas y plataformas favoritas.
 
-<h1>¿Qué ofrece Azure?</h1>
+<h3>¿Qué ofrece Azure?</h3>
 
 on la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gran solución. En la tabla siguiente se enumeran algunas de las ventajas que proporciona Azure, para que inventar con un objetivo sea más sencillo.
 
